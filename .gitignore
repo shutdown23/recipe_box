@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore AWS cred
+config/s3.yml
